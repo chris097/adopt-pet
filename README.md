@@ -1,4 +1,3 @@
 # adopt-pet
-Run on localhost
-npm run dev
+npm run dev - for localhost
 
